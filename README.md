@@ -4,26 +4,26 @@ The main goal of this project is to use KMeans Clustering to cluster Universitie
 
 # The Data
 
-The dataset conprises of a data frame with 777 observations on the following 18 variables.\n
+The dataset conprises of a data frame with 777 observations on the following 18 variables.  
 
-Private A factor with levels No and Yes indicating private or public university\n
-Apps Number of applications received\n
-Accept Number of applications accepted\n
-Enroll Number of new students enrolled\n
-Top10perc Pct. new students from top 10% of H.S. class\n
-Top25perc Pct. new students from top 25% of H.S. class\n
-F.Undergrad Number of fulltime undergraduates\n
-P.Undergrad Number of parttime undergraduates\n
-Outstate Out-of-state tuition\n
-Room.Board Room and board costs\n
-Books Estimated book costs\n
-Personal Estimated personal spending\n
-PhD Pct. of faculty with Ph.D.’s\n
-Terminal Pct. of faculty with terminal degree\n
-S.F.Ratio Student/faculty ratio\n
-perc.alumni Pct. alumni who donate\n
-Expend Instructional expenditure per student\n
-Grad.Rate Graduation rate\n
+Private A factor with levels No and Yes indicating private or public university  
+Apps Number of applications received   
+Accept Number of applications accepted   
+Enroll Number of new students enrolled   
+Top10perc Pct. new students from top 10% of H.S. class   
+Top25perc Pct. new students from top 25% of H.S. class   
+F.Undergrad Number of fulltime undergraduates   
+P.Undergrad Number of parttime undergraduates  
+Outstate Out-of-state tuition  
+Room.Board Room and board costs   
+Books Estimated book costs   
+Personal Estimated personal spending   
+PhD Pct. of faculty with Ph.D.’s   
+Terminal Pct. of faculty with terminal degree   
+S.F.Ratio Student/faculty ratio  
+perc.alumni Pct. alumni who donate   
+Expend Instructional expenditure per student   
+Grad.Rate Graduation rate  
 
 # Packages Used
 
